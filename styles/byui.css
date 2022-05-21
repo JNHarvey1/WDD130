@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rock+Salt&display=swap');
 
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+}
 
 nav, footer{
     background-color: steelblue;
-    padding: 10px;
+    padding: 25px;
     text-align: center;
 }
 
@@ -11,22 +16,28 @@ nav a {
     margin: 40px;
     text-decoration: none;
     font-size: 1.5em;
+    padding: 8px;
 }
 
 a:hover {
     background-color: white;
     color: steelblue;
+    border-radius: 40%;
 }
 h1 {
     color: steelblue;
     text-align: center;
+    font-family: 'Rock Salt', 'Bradley Hand';
+    margin: 50px 0;
 }
 
 img {
     width: 80%;
-    /* border: 4px solid steelblue; */
+    border: 4px solid steelblue;
     display: block;
     margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 15px 15px 10px #ccc;
 }
 
 p {
@@ -47,4 +58,5 @@ p {
 
 footer p {
     font-size: 20px;
+    margin: 20px auto;
 }

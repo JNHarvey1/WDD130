@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    background-color: #737373;
+}
+
+
+
+
+footer {
+    background-color: #737373;
+    text-align: center;
+}
+
+.desk {
+    border-radius: 100%;
+    border: 10px solid;
+    border-color: #444444;
+}
+
+.graphic {
+    border-radius: 100%;
+    border: 10px solid;
+    border-color: #444444;
+}
+
+.person {
+    border-radius: 100%;
+    border: 10px solid;
+    border-color: #444444;
+}
