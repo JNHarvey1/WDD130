@@ -19,7 +19,8 @@ nav a {
 }
 
 .logo {
-    margin: auto; 
+    margin: 10px;
+    width: 100px;
 }
 
 #logo_link {
